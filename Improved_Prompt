@@ -1,0 +1,13 @@
+{
+  "event": "app_launch",
+  "date": "June 14, 2026",
+  "app_name": "app_here",
+  "description": "A mobile application designed to help individuals with social anxiety practice social interaction in a safe, supportive environment at their own pace.",
+  "availability": [
+    "Google Play Store",
+     "App Store"
+  ],
+  "status": "now available",
+  "message": "We are launching our app on June 14, 2026 that helps people with social anxiety practice social interaction in a safe, supportive environment at their own pace, now available on the Google Play Store and Apple App Store."
+}
+ 
