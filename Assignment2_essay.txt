@@ -1,0 +1,27 @@
+1)Hi John Thanks for reaching out to ABM_Kitchen. Our breakfast special Menu for today(June 13,2026) 
+includes Eggs with sussages which comes with fries on the side and cheese(Yellow/White) as toping, the prices is $25.
+
+2)Customer_email
+customer_name
+Customer_phone
+complaint_date
+product_or_service
+order_id
+issue_category
+complaint_summary
+severity_level
+requested_resolution
+key_elements
+action_required
+
+3)we are lunching our app(app_here) today(June 14, 2026) try it and you will like(weak Prompt)
+
+We are launching our app(app_here) on June 14, 2026 that helps people with social anxiety practice social interaction in a safe, 
+supportive environment at their own pace, now available on the Google Play Store and Apple App Store.(Improved Prompt)
+
+The weaker prompt                  Improved Prompt
+                                
+1)No  detail description,purpose             Has detail description,purpose, and Target audience
+and Target audience
+
+   

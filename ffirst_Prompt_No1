@@ -1,0 +1,15 @@
+{
+  "message": "Hi John, thanks for reaching out to ABM_Kitchen.",
+  "date": "June 13, 2026",
+  "restaurant": "ABM_Kitchen",
+  "menu_type": "Breakfast Special",
+  "special_of_the_day": {
+    "items": [
+      "Eggs with sausages",
+      "Fries (side)",
+      "Cheese topping (yellow or white)"
+    ]
+  },
+  "price": 25,
+  "currency": "USD"
+} 

@@ -1,0 +1,14 @@
+{
+"Customer_email": "",
+"customer_name": "",
+"Customer_phone"
+"complaint_date": "",
+"product_or_service": "",
+"order_id": "",
+"issue_category": "",
+"complaint_summary": "",
+"severity_level": "",
+"requested_resolution": "",
+"key_elements": [],
+"action_required": true
+}
